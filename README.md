@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnggunLntra
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Front End Development and UI UX Design
 - 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can send mail to anggunlentera@gmail.com
 
 <!---
