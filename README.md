@@ -8,7 +8,7 @@
 ## My Email
 - 📫 How to reach me? You can send mail to anggunlentera@gmail.com
 
-## My Website
+## My Personal Website
 - 🌐 See my web on this link https://anggunlentera.000webhostapp.com/
 
 ## My Statistic
