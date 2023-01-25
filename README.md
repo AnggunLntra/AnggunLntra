@@ -16,6 +16,10 @@ See on this link https://anggunlntra.github.io/Fundraising-Landing-Page-with-Boo
 ### Registation Donation
 See on this link https://anggunlntra.github.io/Registation-Donation/
 
+## My Personal Design
+### Portfolio
+See on this link https://www.figma.com/file/JZgewxnxoWTur7m0tSZPpN/Anggun-Portfolio?node-id=17%3A10&t=R4q237s6eId5QBov-1
+
 ## My Statistic
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnggunLntra&show_icons=true&theme=radical)](https://github.com/AnggunLntra/github-readme-stats)
